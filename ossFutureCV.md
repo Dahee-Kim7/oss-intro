@@ -6,7 +6,7 @@
 
 ### 자기소개
 
-![ID photo](/ID%20photo.jpg)
+![ID photo](/IDphoto.jpg)
 
 [GitHub profile]<https://github.com/Dahee-Kim7>  
 [Email]daheekim71@gmail.com
